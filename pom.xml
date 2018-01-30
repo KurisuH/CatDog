@@ -49,12 +49,6 @@ e.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 
     <modules>
         <module>dl4j-examples</module>
-        <module>dl4j-spark-examples</module>
-        <module>datavec-examples</module>
-        <module>dl4j-cuda-specific-examples</module>
-        <module>nd4j-examples</module>
-        <module>rl4j-examples</module>
-        <module>lstm-hdfs</module>
     </modules>
 
     <!-- Maven Enforcer: Ensures user has an up to date version of Maven before building -->
